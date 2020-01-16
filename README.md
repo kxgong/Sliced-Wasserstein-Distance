@@ -1,2 +1,2 @@
 # Sliced-Wasserstein-Distance
-Sliced wasserstein distance implementation
+Inplementation of calculating sliced wassertein distance.
